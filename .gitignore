@@ -1,0 +1,15 @@
+Add ignored files
+*.csv
+.CFUserTextEncoding
+.DS_Store
+.R/
+.Rhistory
+.condarc
+.config/
+.ipynb_checkpoints/
+.mime.types
+.subversion/
+.vim/
+.zshrc
+
+
